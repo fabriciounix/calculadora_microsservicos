@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBI5iqH0Kslg9KBw7B/nRG9oDMgDP17t1U6d1y6Q2q55P4GfMd2dcmlV7CC6Mis0I+ca5EZ9iEFA76F5jyElfg==",
+  "success": true,
+  "projectFilePath": "/home/fabricio/calculadora/calculadora_microsservicos/RestAspNet/RestAspNet/RestAspNet.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/root/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
